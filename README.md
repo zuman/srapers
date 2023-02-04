@@ -15,7 +15,9 @@ The tool for Indians seeking the earliest available Schengen visa appointment da
 
 ### Usage:
 * Run the following command
-> python schengen-visa-date-checker.py -e your_email -p your_password
+```
+python schengen-visa-date-checker.py -e your_email -p your_password
+```
 * During the first run, give appropriate permissions to the browser.
 * Do not minimize or close the browser window.
 
